@@ -19,13 +19,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nmap/nmap-original.svg" height="30" alt="nmap logo"  />
+  <img src="" height="30" alt="nmap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" height="30" alt="metasploit logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="30" alt="wireshark logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/burpsuite/burpsuite-original.svg" height="30" alt="burpsuite logo"  />
+  <img src="https://images.icon-icons.com/3053/PNG/512/burp_suite_macos_bigsur_icon_190319.png" height="30" alt="burpsuite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/owasp/owasp-original.svg" height="30" alt="owasp logo"  />
 </div>

@@ -21,13 +21,12 @@
   <img width="12" />
   <img src="" height="30" alt="nmap logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metasploit/metasploit-original.svg" height="30" alt="metasploit logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="30" alt="wireshark logo"  />
+  <img src="https://images.icon-icons.com/1508/PNG/512/wireshark_104082.png" height="30" alt="wireshark logo"  />
   <img width="12" />
   <img src="https://images.icon-icons.com/3053/PNG/512/burp_suite_macos_bigsur_icon_190319.png" height="30" alt="burpsuite logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/owasp/owasp-original.svg" height="30" alt="owasp logo"  />
+  <img src="https://images.icon-icons.com/3913/PNG/512/owasp_logo_icon_248268.png" height="30" alt="owasp logo"  />
 </div>
 
 ###
